@@ -129,10 +129,7 @@ main {
 }
 
 .card__list{
-    margin-block-start: 1.2rem;
-}
-
-.card__list{
+     margin-block-start: 1.2rem;
     font-size: 0.9rem;
     list-style: none;
     color:var(--color-text-feature);
